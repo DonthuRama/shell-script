@@ -1,2 +1,4 @@
-hi
-echo "this is ram"
+#!/bin/bash
+# this is comment
+
+echo "hello iam ram"
