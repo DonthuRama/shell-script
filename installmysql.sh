@@ -8,3 +8,4 @@ echo"yes u r notroot user proced with root user"
 else
 echo"u r root userproceed with installation"
 fi
+yum install mysql -y
