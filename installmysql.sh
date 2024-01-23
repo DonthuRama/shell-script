@@ -22,5 +22,6 @@ then
 
 echo "install failure"
 exit 1
+else 
 echo "instalation successfull"
 fi
